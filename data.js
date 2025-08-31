@@ -1,5 +1,16 @@
 const bProjects = [
   {
+    imgSrc: "./assets/works/pyramind.png",
+    altText: "Pyramind - Pharaon",
+    title: "Pyramind - Pharaon",
+    description: [
+      "Led the analysis and planning of the project, defining clear requirements, user stories, and acceptance criteria to align development with business goals.",
+      "Managed the development process using the Scrum framework, facilitating sprint planning, daily stand-ups, reviews, and retrospectives to ensure continuous progress and team collaboration.",
+      "Coordinated cross-functional teams and stakeholders, tracking progress through agile tools and ensuring timely delivery of high-quality features."
+    ],
+    date: "4/2025 - Present",
+  },
+  {
     imgSrc: "./assets/works/damen.png",
     altText: "Damen - Ikoniks",
     title: "Damen - Ikoniks",
